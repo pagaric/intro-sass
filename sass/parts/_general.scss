@@ -1,0 +1,33 @@
+h1 {
+    color: $primaryColor;
+}
+
+.normal {
+    font-size: $normalFontSize;
+}
+
+.big {
+    font-size: $bigFontSize;
+}
+
+.small {
+    font-size: $smallFontSize;
+}
+
+a {
+    color:brown;
+
+    &:hover {
+        background-color: #5ceef3;
+    }
+}
+
+
+
+// footer div {
+//     background-color: #ccc;
+// }
+
+// footer div p:first-child {
+//     color: $primaryColor;
+// }

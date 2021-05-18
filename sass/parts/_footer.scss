@@ -1,0 +1,12 @@
+/* style du footer */
+footer {
+    background-color: #aaa;
+
+    div {
+        background-color: #ccc;
+
+        p:first-child {
+            color: $primaryColor;
+        }//endP
+    }//endDiv
+}//endFooter
